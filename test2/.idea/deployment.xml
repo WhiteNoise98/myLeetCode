@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" uploadOnCheckin="7b633475-5813-4e83-8822-9e3e1a70da92" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="PD Ubuntu (7b633475-5813-4e83-8822-9e3e1a70da92)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/test2" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="PD Ubuntu (7b633475-5813-4e83-8822-9e3e1a70da92)" />
+  </component>
+</project>

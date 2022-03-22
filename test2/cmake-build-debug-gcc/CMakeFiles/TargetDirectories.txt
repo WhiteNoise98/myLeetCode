@@ -1,0 +1,3 @@
+/Users/xiaoxuan/myProject/cppSeries/test2/cmake-build-debug-gcc/CMakeFiles/rebuild_cache.dir
+/Users/xiaoxuan/myProject/cppSeries/test2/cmake-build-debug-gcc/CMakeFiles/edit_cache.dir
+/Users/xiaoxuan/myProject/cppSeries/test2/cmake-build-debug-gcc/CMakeFiles/test2.dir
